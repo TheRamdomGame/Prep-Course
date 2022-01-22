@@ -1,7 +1,6 @@
 h1 {
     color: rgb(25, 135, 238);
 }
-
 img {
     width: 400px;
 }
@@ -13,7 +12,6 @@ img {
     padding: 50px;
     border: 2px solid black;
 }
-
 #spanId {
     font-size: 18px;
     margin: 50px;
